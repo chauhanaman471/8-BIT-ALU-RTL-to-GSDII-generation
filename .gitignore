@@ -1,0 +1,16 @@
+# Simulation outputs
+*.vcd
+*.fst
+*.vvp
+
+# Python
+__pycache__/
+.venv/
+
+# Generated physical design files
+runs/
+*.tmp
+
+# Editor
+.vscode/
+
